@@ -297,8 +297,11 @@ img{
 .skills__js{
   width: 65%;
 }
-.skills__ux{
-  width: 85%;
+.skills__react{
+  width: 45%;
+}
+.skills__vuejs{
+  width: 40%;
 }
 .skills__img{
   border-radius: .5rem;
